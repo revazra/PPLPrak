@@ -1,0 +1,9 @@
+# ignore temporary files
+*.tmp
+
+# ignore log files
+*.log
+
+# ignore directories
+node_modules/
+*.DS_Store
